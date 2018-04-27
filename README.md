@@ -62,9 +62,11 @@ Graphics
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
+* [CC0 PBR Textures](https://www.cc0textures.com/home) - Creative Commons PBR textures. ![free](/img/free.png)
 * [CGTextures](http://www.textures.com) - A large collection of textures.
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. ![free](/img/free.png)
+* [HDRI Haven](https://hdrihaven.com/) - Creative Commons HDRI environment maps. ![free](/img/free.png)
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. ![free](/img/free.png)
 * [Kenney Assets](http://kenney.nl/assets) - Royalty free assets ![free](/img/free.png)
 * [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
