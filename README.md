@@ -485,3 +485,8 @@ Learn
 
 * [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+
+
+### Mix Assets
+* [Reddit Link](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
+*[Mobile Games Assets](https://mobilegamegraphics.com/product-category/all_products/freestuff/)
