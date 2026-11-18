@@ -89,6 +89,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
+- :free: [MakerGIF Sprite Sheet Converter](https://makergif.com/gif-to-sprite-sheet) - Free browser-based GIF/video to PNG sprite sheet converter with live WASD playtesting, Phaser 3 JSON, and Sparrow v2 XML export
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
